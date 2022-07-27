@@ -1,0 +1,13 @@
+/* BASIC STYLES HERE */
+.img-size {
+  height: 10em;
+}
+
+.payment {
+  height: 81vh;
+}
+
+.selectable {
+  transform: scale(1.05);
+  cursor: pointer;
+}
